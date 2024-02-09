@@ -5,5 +5,5 @@
 1. Designed and integrated various features such as time table assignment, email notifications for faculty, scheme management, subject allocation, and bill creation based on selected month and year, resulting in a 20% reduction in faculty and college workload..
 2. Successfully improved operational efficiency by digitizing the entire offline facility billing system, leading to significant time and cost savings for the college while enhancing accuracy and accessibility of billing information.
 
-#Here are some screenshots of project
-!(img/s1.jpg)
+
+![Home Page](img/s1.png)
